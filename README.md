@@ -9,3 +9,6 @@ git remote -v
 
 #3 Question 3. How many and what sections are in an HTML document. 
 Head, Body
+
+#4 Question 4. There are two ways to reference css in the header. 
+What are the two ways. 
